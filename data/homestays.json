@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "title":"Tranquil Homestay",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/07/e7/5b/view-from-main-building.jpg?w=1200&h=-1&s=1",
+        "rating": 5.0,
+        "reviews":42,
+        "location":"Mulpani,Kathmandu"
+
+    },
+    {
+        "id":"2",
+        "title":"Chamati Boutique Homestay",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3f/7d/40/chamati-boutique-homestay.jpg?w=700&h=-1&s=1",
+        "rating": 5.0,
+        "reviews":39,
+        "location":"Chamati,Kathmandu"
+  
+    },
+    {
+        "id":"3",
+        "title":"Kumari Homestay",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/86/71/01/kumari-homestay.jpg?w=1100&h=-1&s=1",
+        "rating": 4.8,
+        "reviews":26,
+        "location":"Balkhu,Kathmandu"
+  
+    },
+    {
+    "id":"4",
+    "title":"Kathmandu Homestay",
+    "image":"https://res.klook.com/klook-hotel/image/upload/fl_lossy.progressive,q_85/c_fill/travelapi/13000000/12840000/12833200/12833165/b49a9a13_z.jpg",
+    "rating": 4.7,
+    "reviews":24,
+    "location":"Balaju,Kathmandu"
+    }
+ 
+]
